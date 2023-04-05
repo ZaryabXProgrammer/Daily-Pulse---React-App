@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Daily-Pulse---React-App/static/css/main.25d56309.css",
+    "main.js": "/Daily-Pulse---React-App/static/js/main.e4c098a1.js",
+    "static/js/787.7efd31bd.chunk.js": "/Daily-Pulse---React-App/static/js/787.7efd31bd.chunk.js",
+    "static/media/loading.gif": "/Daily-Pulse---React-App/static/media/loading.4e7b5abdcf90adb6fda6.gif",
+    "index.html": "/Daily-Pulse---React-App/index.html",
+    "main.25d56309.css.map": "/Daily-Pulse---React-App/static/css/main.25d56309.css.map",
+    "main.e4c098a1.js.map": "/Daily-Pulse---React-App/static/js/main.e4c098a1.js.map",
+    "787.7efd31bd.chunk.js.map": "/Daily-Pulse---React-App/static/js/787.7efd31bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25d56309.css",
+    "static/js/main.e4c098a1.js"
+  ]
+}
